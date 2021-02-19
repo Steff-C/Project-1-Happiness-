@@ -1,9 +1,11 @@
 
+.DS_Store
+.DS_Store?
+=======
+
 config.py
 
 
-# macOS related files
-.DS_Store
 
 
 # Byte-compiled / optimized / DLL files
